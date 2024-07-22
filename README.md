@@ -24,6 +24,7 @@
 - Node.js
 - Express
 - Axios
+- MongoDB
 
 ## Установка и настройка
 
